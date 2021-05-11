@@ -90,8 +90,8 @@
 		}
 		@media (min-width: 1000px){
 		   article{
-		     margin-left:12em;
-		     margin-right:12em;
+		     margin-left:3em;
+		     margin-right:3em;
 			 font-size:1.4em;
 			 line-height:1.6em;
 		   }
