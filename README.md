@@ -1,12 +1,10 @@
-# ISKO ITALIA Cremona 2021
-## Spazio condiviso sulla relazione esposta da Mauro Bertani per #iskoi21
-Se sei interessato o hai qualche domanda inizia una discussione o apri una iusses
+# Two series by the prime one
 ## Abstract:
-Attraverso i lattice proverò a spiegare una possibile implementazione della teoria di S.R.Ranganathan. Vedremo come è possibile passare da un ipercubo ad una linea o ad un albero.
+Diveded the prime series in two series where all node distance 6 or 6n (where n is 1,2,3,4...) by the previous one
 
 ## Keywords:
-Lattice - Ranganathan - Vector Space - Subject heading
+prime -  rooted_tree_prime
 
 repo structure:
- * ./doc/ **->** [web official site](https://bertanimauro.github.io/ISKOI21/)
+ * ./doc/ **->** [web official site](https://bertanimauro.github.io/PrimeSeries/)
  
