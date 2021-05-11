@@ -6,5 +6,5 @@ Diveded the prime series in two series where all node distance 6 or 6n (where n 
 prime -  rooted_tree_prime
 
 repo structure:
- * ./doc/ **->** [web official site](https://bertanimauro.github.io/PrimeSeries/docs/)
+ * ./doc/ **->** [web official site](https://bertanimauro.github.io/PrimeSeries/)
  
