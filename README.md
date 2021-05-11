@@ -1,7 +1,6 @@
 # Two series by the prime one
 ## Abstract:
-Diveded the prime series in two series where all node distance 6 or 6n (where n is 1,2,3,4...) by the previous one
-
+Divedes the series of prime number in two series where all nodes distance  6n (where n is 1,2,3,4...) by the previous one and creates two rooted tree
 ## Keywords:
 prime -  rooted_tree_prime
 
