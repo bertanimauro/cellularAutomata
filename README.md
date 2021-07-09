@@ -1,11 +1,9 @@
-# Two series by the prime one
+# Cellular automata
 ## Abstract:
-Divides the series of prime number in two series where all nodes distance  6n (where n is 1,2,3,4...) by the 
-previous one and creates two rooted tree. The two series one start by 5 [A007528](https://oeis.org/A007528) and the other by
- 7 [A002476 ](https://oeis.org/A002476)
+Propositional calculus with 3 variables. 256 different concepts. We studied the relation between concepts. The type of relation is an implication. We can see that simple rules are relate to complex rule by an implication. Rule 255 is relate to all others rules.
 ## Keywords:
-prime -  rooted_tree_prime
+cellular automata - implication -
 
 repo structure:
- * ./doc/ **->** [web official site](https://bertanimauro.github.io/PrimeSeries/)
+ * ./doc/ **->** [web official site](https://bertanimauro.github.io/cellularAutomata/)
  
